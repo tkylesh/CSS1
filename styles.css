@@ -7,34 +7,18 @@ body {
 
 }
 
-
-
-
-
-
-/*.new-border2 {
-	border-width: 2px;
-	border-style: solid;
-	border-color: black;
-}*/
-
-.title{
-	border-color: green;
-}
-
-.image{
-	border-color: blue;
+.top-nav {
+	background-color: goldenrod;
+	height: 45px;
 
 }
 
-.text1{
-	border-color: red;
-
-}
-
-.text2{
-	border-color: orange;
-}
-.footer{
-	border-color: aqua;
+.top-nav li{
+	list-style-type: none;
+	font-family: "Arial";
+	display: inline-block;
+	padding: 0 9px;
+	margin: 10px 15px 0 15px;
+	float: left;
+	cursor: pointer;
 }
