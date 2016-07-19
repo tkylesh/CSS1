@@ -1,3 +1,42 @@
 body{
-	background-color: dodgerblue;
+	background-color: #fff;
+}
+h1 {
+	margin-top: 20%;
+	font-size: 50px;
+    
+}
+input[type="text"]{
+	font-size: 20px;
+	width: 30%;
+	display: block;
+	margin: 0 auto;
+}
+
+#wrapper{
+	padding-top: 30%;
+	text-align: center;
+	font-size: 50px;
+
+}
+
+.blue{
+	color: dodgerblue;
+
+}
+.red{
+	color: red;
+
+}
+.yellow{
+	color: goldenrod;
+
+}
+.green{
+	color: lime;
+
+}
+.red{
+	color: red;
+
 }
